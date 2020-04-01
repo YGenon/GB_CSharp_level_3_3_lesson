@@ -1,0 +1,52 @@
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\bin\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\bin\Release\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.g.cs
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.cache
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.lref
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.baml
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.g.resources
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.Properties.Resources.resources
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\bin\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\bin\Release\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.g.cs
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.cache
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.lref
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.baml
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.g.resources
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\Новая папка\MailSender\TabSwitcher\obj\Release\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\MailSender\TabSwitcher\obj\Release\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\bin\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\bin\Release\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.g.cs
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.cache
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.lref
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.baml
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.g.resources
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.Properties.Resources.resources
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.dll
+C:\Users\Любовь\Desktop\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\bin\Release\TabSwitcher.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\bin\Release\TabSwitcher.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csprojAssemblyReference.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher_MarkupCompile.lref
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcherControl.baml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.g.resources
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.Properties.Resources.resources
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.GenerateResource.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Release\TabSwitcher.pdb

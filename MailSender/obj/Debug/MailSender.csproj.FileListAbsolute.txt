@@ -1,0 +1,91 @@
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\TabSwitcher.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\TabSwitcher.pdb
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MainWindow.g.cs
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\App.g.cs
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MainWindow.baml
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.g.resources
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\Любовь\Desktop\MailSender\MailSender\obj\Debug\MailSender.pdb
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\EncrypterDll.dll
+C:\Users\Любовь\Desktop\MailSender\MailSender\bin\Debug\EncrypterDll.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Emails.designer.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Emails.dbml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Emails.dbml.layout
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\MailSender.exe.config
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\MailSender.exe
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\MailSender.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\CommonServiceLocator.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\System.Windows.Interactivity.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\TabSwitcher.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\TabSwitcher.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\EncrypterDll.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.xml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\EmailInfo.baml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\SaveEmailView.baml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\EmailInfo.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\MainWindow.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\SaveEmailView.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\App.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender_MarkupCompile.lref
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\App.baml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\Views\MainWindow.baml
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.g.resources
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.exe
+D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\MailSender\obj\Debug\MailSender.pdb

@@ -1,0 +1,7 @@
+﻿INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (1, 'Ivanon@yandex.ru', 'Ivanon')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (2, 'Petrov@yandex.ru', 'Petrov')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (3, 'Sidorov@yandex.ru', 'Sidorov')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (4, N'Spiridonov@gmail.com', N'Spiridonov')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (5, N'Cotov@gmail.com', N'Cotov')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (6, N'Samohin@gmail.com', N'Samohin')
+INSERT INTO [dbo].[Emails] ([Id], [Email], [Name]) VALUES (7, N'Lukin@gmail.com', N'Lukin')

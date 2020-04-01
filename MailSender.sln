@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender", "MailSender\MailSender.csproj", "{29C7734E-BD29-496B-ACD3-3E3640DEFED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabSwitcher", "TabSwitcher\TabSwitcher.csproj", "{8BCE7E9B-C2F7-48D4-A00C-743DA24C544A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C7734E-BD29-496B-ACD3-3E3640DEFED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C7734E-BD29-496B-ACD3-3E3640DEFED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C7734E-BD29-496B-ACD3-3E3640DEFED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C7734E-BD29-496B-ACD3-3E3640DEFED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCE7E9B-C2F7-48D4-A00C-743DA24C544A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCE7E9B-C2F7-48D4-A00C-743DA24C544A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCE7E9B-C2F7-48D4-A00C-743DA24C544A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCE7E9B-C2F7-48D4-A00C-743DA24C544A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4E3760-4C84-4DE3-8A93-4FED2B9981B5}
+	EndGlobalSection
+EndGlobal
