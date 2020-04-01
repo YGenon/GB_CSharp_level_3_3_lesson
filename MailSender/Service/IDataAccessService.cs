@@ -6,5 +6,6 @@ namespace MailSender.Service
 	{
 		ObservableCollection<Emails> GetEmails();
 		int CreateEmail(Emails email);
+		ObservableCollection<Emails> SelectEmails(string name);
 	}
 }

@@ -31,7 +31,7 @@ namespace MailSender.ViewModel
 
 		public RelayCommand<Emails> SaveEmailCommand { get; }
 		public RelayCommand ReadAllMailsCommand { get; }
-		public RelayCommand SearchMailsCommand { get; }		
+		//public RelayCommand SearchMailsCommand { get; }		
 
 		public MainWindowViewModel(IDataAccessService dataService)
 		{
@@ -39,9 +39,10 @@ namespace MailSender.ViewModel
 			 
 			ReadAllMailsCommand = new RelayCommand(GetEmails);
 
-			SearchMailsCommand = new RelayCommand(SearhEmails); 			
+			//SearchMailsCommand = new RelayCommand(SearhEmails); 			
 
 			SaveEmailCommand = new RelayCommand<Emails>(SaveEmail);
+			
 		}
 
 		private void SaveEmail(Emails email)
@@ -61,16 +62,16 @@ namespace MailSender.ViewModel
 			set 
 			{ 
 				searchText = value;
-				if (searchText.Length > 1) { SearhEmails();}
+				if (searchText.Length > 1) { SearhEmails(searchText);}
 				
 			}
 			
 		}
-		private void SearhEmails()
+		private void SearhEmails(string searchText)
 		{
 			Emails.Clear();
-			
-			MessageBox.Show("Ищем");
+			Emails = _dataService.SelectEmails(searchText);
+			//MessageBox.Show("Ищем");
 			
 
 		}

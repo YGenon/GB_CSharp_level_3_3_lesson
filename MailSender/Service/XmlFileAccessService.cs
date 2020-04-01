@@ -9,5 +9,8 @@ namespace MailSender.Service
 			NotImplementedException();
 		public int CreateEmail(Emails email) => throw new
 			NotImplementedException();
+
+		public ObservableCollection<Emails> SelectEmails(string name) => throw new
+			NotImplementedException();
 	}
 }
