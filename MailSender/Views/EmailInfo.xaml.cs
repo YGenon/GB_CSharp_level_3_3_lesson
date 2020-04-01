@@ -27,12 +27,6 @@ namespace MailSender.Views
 			InitializeComponent();		
 		}
 
-		private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-		{
-			TextBox textBox = (TextBox)sender;
-			//MessageBox.Show(textBox.Text);
-			SimpleIoc.Default.GetInstance<MainWindowViewModel>().SetSearchText(textBox.Text);
-			SimpleIoc.Default.GetInstance<MainWindowViewModel>().SearchMailsCommand;
-		}
+		
 	}
 }

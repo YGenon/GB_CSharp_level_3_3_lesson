@@ -24,3 +24,16 @@ D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher
 D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
 D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Debug\TabSwitcher.dll
 D:\GeekBrains\C#\C# 3 уровень\3 урок\C# Lesson\MailSender\TabSwitcher\obj\Debug\TabSwitcher.pdb
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\bin\Debug\TabSwitcher.dll
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\bin\Debug\TabSwitcher.pdb
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.csprojAssemblyReference.cache
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcherControl.g.cs
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcherControl.baml
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.dll
+D:\GIT\GB_CSharp_level_3_3_lesson\TabSwitcher\obj\Debug\TabSwitcher.pdb

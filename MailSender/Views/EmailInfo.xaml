@@ -22,10 +22,11 @@
         </Grid.RowDefinitions>
         <TextBlock Text="Получатели сообщений" HorizontalAlignment="Center"
                    FontWeight="Bold"/>
-        <DockPanel Grid.Row="1" Margin="5">
-            <WrapPanel>
+        
+                <DockPanel Grid.Row="1" Margin="5">           
+                    <WrapPanel>
                 <TextBlock Text="Поиск по имени:"/>
-                <TextBox Name="Search" TextChanged="TextBox_TextChanged" Margin="15,0,0,0" MinWidth="100"/>
+                <TextBox Name="Search" Text="{Binding SetSearchText}"  Margin="15,0,0,0" MinWidth="100"/>
             </WrapPanel>
         </DockPanel>
         <DataGrid Grid.Row="2" SelectedItem="{Binding CurrentEmail}"
