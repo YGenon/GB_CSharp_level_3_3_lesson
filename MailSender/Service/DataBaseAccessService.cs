@@ -21,8 +21,8 @@ namespace MailSender.Service
 			return email.Id;
 		}
 				
-		//public ObservableCollection<Emails> SelectEmail(String InName) => new
-		//ObservableCollection<Emails>(_dataContext.Emails.Where<Emails>(Emails.Equals(InName)));			 
+		public ObservableCollection<Emails> SelectEmail(String InName) => new
+		ObservableCollection<Emails>(_dataContext.Emails.Where<Emails>(Emails=>Emails.Name == InName));			 
 
 		
 	}
