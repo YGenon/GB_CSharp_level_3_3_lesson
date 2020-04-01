@@ -59,18 +59,18 @@ namespace MailSender.ViewModel
 		{
 			set 
 			{ 
-				searchText = value; 
-				SearhEmails();
+				searchText = value;
+				if (searchText.Length > 1) { SearhEmails();}
+				
 			}
 			
 		}
 		private void SearhEmails()
 		{
-			
 			Emails.Clear();	
 			
 			MessageBox.Show("Ищем");
-		
+			
 
 		}
 	}
