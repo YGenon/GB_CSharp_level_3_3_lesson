@@ -53,9 +53,14 @@ namespace MailSender.ViewModel
 			Emails.Add(email);
 		}
 
-		private void GetEmails() => Emails = _dataService.GetEmails();
+		//private void GetEmails() => Emails = _dataService.GetEmails();
+		private void GetEmails()
+		{
+			if (searchText.Length < 1) { Emails = _dataService.GetEmails(); }
+		}
 
-		private string searchText;
+
+		private string searchText = "";
 
 		public string SetSearchText
 		{
@@ -72,8 +77,6 @@ namespace MailSender.ViewModel
 			Emails.Clear();
 			Emails = _dataService.SelectEmails(searchText);
 			//MessageBox.Show("Ищем");
-			
-
 		}
 	}
 }

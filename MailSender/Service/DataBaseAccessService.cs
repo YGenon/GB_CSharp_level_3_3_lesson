@@ -20,15 +20,7 @@ namespace MailSender.Service
 			_dataContext.SubmitChanges();
 			return email.Id;
 		}
-		//public ObservableCollection<Emails> SelectEmail(String InName)
-		//{
-		//	 _dataContext.Emails.Where<Emails>(Emails => Emails.Name == InName);
-		//	return Emails;
-		//}
-
-
-		//public ObservableCollection<Emails> SelectEmail(string name) => new
-		//ObservableCollection<Emails>(_dataContext.Emails.Where<Emails>(Emails => Emails.Name == name));
+		
 
 		public ObservableCollection<Emails> SelectEmails(string name)
 		{
